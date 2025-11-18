@@ -21,7 +21,7 @@
 
 body {
     padding: 20px;
-    background-image: url("/img/FlashCard_Activity_v1_BG.png");
+    background-image: url("../img/flashcardbg.png");
     background-repeat: no-repeat;
     background-size: cover;
     padding: 5em;
